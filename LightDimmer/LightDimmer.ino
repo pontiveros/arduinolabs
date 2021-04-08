@@ -12,7 +12,7 @@ int led = 9;      // Led output
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(let, OUTPUT);
+  pinMode(led, OUTPUT);
 }
 
 void loop() {
