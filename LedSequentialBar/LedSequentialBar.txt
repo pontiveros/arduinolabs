@@ -1,0 +1,11 @@
+
+Hardware Components
+===================
+
+- Board Generic
+- Arduino Uno 
+- Jumpers wires
+- Resistor 220 omhs x 9
+- Led x 9
+- Pot 100K x 1
+- USB cable x 1
