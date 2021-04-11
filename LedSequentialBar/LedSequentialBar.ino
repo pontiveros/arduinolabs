@@ -2,7 +2,7 @@
 /**********************************/
 /* 04/08/2021                     */
 /* Pedro Ontiveros                */
-/* pontiveros.developer@gmail.com */
+/* ontiveros.pedro@gmail.com      */
 /*                                */
 /**********************************/
 
@@ -34,16 +34,16 @@ void loop() {
   delay(ledLevel);
 }
 
-void goForward(int value, int pause) {
+void goForward(int flag, int pause) {
   for (int index = 0; index < ledSize; index++) {
-      digitalWrite(ledPins[index], (value == 1) ? HIGH : LOW);
+      digitalWrite(ledPins[index], (flag == 1) ? HIGH : LOW);
       delay(pause);
     }
 }
 
-void goBackward(int value, int pause) {
+void goBackward(int flag, int pause) {
   for (int index = (ledSize - 1); index >= 0; index--) {
-      digitalWrite(ledPins[index], (value == 1) ? HIGH : LOW);
+      digitalWrite(ledPins[index], (flag == 1) ? HIGH : LOW);
       delay(pause);
     }  
 }
