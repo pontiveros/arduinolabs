@@ -1,10 +1,11 @@
 
-/**********************************/
-/* 05/06/2021                     */
-/* Pedro Ontiveros                */
-/* ontiveros.pedro@gmail.com      */
-/*                                */
-/**********************************/
+/********************************************/
+/* 05/06/2021                               */
+/* Pedro Ontiveros                          */
+/* ontiveros.pedro@gmail.com                */
+/*                                          */
+/* This is a free software with NO WARRANTY */
+/********************************************/
 
 #define ZERO  0x00111111
 #define ONE   0x00000110

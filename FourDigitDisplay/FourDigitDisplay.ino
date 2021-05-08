@@ -1,11 +1,12 @@
 
 
-/**********************************/
-/* 04/10/2021                     */
-/* Pedro Ontiveros                */
-/* ontiveros.pedro@gmail.com      */
-/*                                */
-/**********************************/
+/********************************************/
+/* 04/10/2021                               */
+/* Pedro Ontiveros                          */
+/* ontiveros.pedro@gmail.com                */
+/*                                          */
+/* This is a free software with NO WARRANTY */
+/********************************************/
 
 #define PAUSE 200
 

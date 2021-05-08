@@ -1,10 +1,11 @@
 
-/**********************************/
-/* 04/07/2021                     */
-/* Pedro Ontiveros                */
-/* pontiveros.developer@gmail.com */
-/*                                */
-/**********************************/
+/********************************************/
+/* 04/07/2021                               */
+/* Pedro Ontiveros                          */
+/* ontiveros.pedro@gmail.com                */
+/*                                          */
+/* This is a free software with NO WARRANTY */
+/********************************************/
 
 const int analogPin = A0;
 const int   ledSize = 9;

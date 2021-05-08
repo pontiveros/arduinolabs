@@ -1,8 +1,10 @@
 
-/**********************************/
-/* Pedro Ontiveros                */
-/* pontiveros.developer@gmail.com */
-/**********************************/
+/********************************************/
+/* Pedro Ontiveros                          */
+/* ontiveros.pedro@gmail.com                */
+/*                                          */
+/* This is a free software with NO WARRANTY */
+/********************************************/
 
 /* Variables */
 
