@@ -1,0 +1,8 @@
+
+Hardware Components
+===================
+- Board Generic 
+- Arduino Uno
+- Capacitor 100uf 25v 
+- Servo SG90 9g Micro Servo 1
+- Power source dc 5v
