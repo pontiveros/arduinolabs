@@ -1,0 +1,8 @@
+Hardware Components
+===================
+- Generic Board 
+- Arduino uno or nano
+- Leds (x9)
+- Resistor 220 ohm (x9)
+- Pot 100K (x1)
+- Jumpers for electronic projects 
