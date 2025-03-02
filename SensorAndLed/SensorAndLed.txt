@@ -1,0 +1,9 @@
+
+Hardware Components
+===================
+- Board Generic 
+- Arduino Nano 
+- PIR Sensor 
+- Led 
+- Resistor 220 ohm
+- Jumpers for electronic projects 
